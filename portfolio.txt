@@ -1,3 +1,2 @@
-Ini hanyalah sebuah file uji coba. Maklum baru belajar coding.
-
-Saya mau coba edit commmit
+- Ini hanyalah sebuah file uji coba. Maklum baru belajar coding.
+- Saya mau coba edit commmit
